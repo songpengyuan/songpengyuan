@@ -39,7 +39,7 @@ V u e 、 S a s s 、 W e b p a c k 、 N o d e . j s 等 为 常 用 技 术 �
 
 ### My gtihub stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=songpengyuan)](https://github.com/songpengyuan/github-readme-stats)
+[![Perry's github stats](https://github-readme-stats.vercel.app/api?username=songpengyuan)](https://github.com/songpengyuan/github-readme-stats)
 
 ***
 
