@@ -13,4 +13,7 @@ Currently working in [Okki](https://okki.com/).
 
 Used to work in [Huawei](https://huawei.com), [Youzan](https://youzan.com) and [Dianxiaomi](http://dianxiaomi.com)
 
-Collaborator of [Higress](https://github.com/higress-group/), [Arco-design](https://github.com/arco-design/arco-design) 🤪
+Member of [Higress](https://github.com/higress-group/)
+
+Collaborator of [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue/blob/master/lib/rules/no-root-v-if.js) and [Arco-design](https://github.com/arco-design/arco-design) 
+🤪 
